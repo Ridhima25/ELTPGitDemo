@@ -1,7 +1,6 @@
 hello world
 
-Change 1- login changes WID1
-
-Change 2-Bug fixes
-
-Change 2- By teammate on master for Wi4
+Change 1:- login changes WID1
+Change 2:-Bug fixes
+Change 3:- By teammate on master for Wi4
+Change 4:-For bug2 fix
